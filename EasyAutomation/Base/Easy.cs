@@ -15,5 +15,13 @@ namespace EasyAutomation.Base
 
         public static ISearchContext SearchDriver { get { return _webDriver; } }
         public static IWebDriver Driver { get { return _webDriver; } }
+
+
+
+        [Test]
+        public void Test()
+        {
+            Assert.True(true);
+        }
     }
 }

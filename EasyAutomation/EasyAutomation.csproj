@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <IsPackable>false</IsPackable>
+    <IsPackable>true</IsPackable>
     <IsTestProject>true</IsTestProject>
   </PropertyGroup>
 
@@ -14,7 +14,7 @@
   </ItemGroup>
 
 	<PropertyGroup>
-        <PackageID>EasyFramework</PackageID>
+        <PackageID>EasySolution</PackageID>
 		<Authors>VladyslavRybalka</Authors>
 		<Version>1.0.0</Version>
 	</PropertyGroup>

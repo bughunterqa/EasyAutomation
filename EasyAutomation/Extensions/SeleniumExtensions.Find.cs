@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium;
+﻿using EasyAutomation.Enums;
+using OpenQA.Selenium;
 
 namespace EasyAutomation.Extensions
 {
