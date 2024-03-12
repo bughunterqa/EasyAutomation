@@ -16,7 +16,7 @@
 	<PropertyGroup>
         <PackageID>EasySolution</PackageID>
 		<Authors>VladyslavRybalka</Authors>
-		<Version>1.1.1</Version>
+		<Version>1.1.2</Version>
 	</PropertyGroup>
 
   <ItemGroup>

@@ -3,7 +3,7 @@ using SeleniumExtras.PageObjects;
 
 namespace EasyAutomation
 {
-    class Pages
+    public class EasyPages
     {
         protected static T GetPage<T>() where T : new()
         {
