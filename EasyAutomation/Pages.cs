@@ -3,9 +3,9 @@ using SeleniumExtras.PageObjects;
 
 namespace EasyAutomation
 {
-    public class Page
+    class Pages
     {
-        private static T GetPage<T>() where T : new()
+        protected static T GetPage<T>() where T : new()
         {
             var page = new T();
             PageFactory.InitElements(Easy.SearchDriver, page);
