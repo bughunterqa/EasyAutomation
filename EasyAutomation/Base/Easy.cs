@@ -17,11 +17,5 @@ namespace EasyAutomation.Base
         public static IWebDriver Driver { get { return _webDriver; } }
 
 
-
-        [Test]
-        public void Test()
-        {
-            Assert.True(true);
-        }
     }
 }
